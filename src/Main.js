@@ -7,7 +7,7 @@ import Bottom from './Bottom'
 
 const Main = () => {
     return (
-    <div ClassName="Main">
+    <div className="Main">
     <Title />
     <Body />
     <Bottom />

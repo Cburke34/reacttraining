@@ -1,0 +1,25 @@
+div ul {
+    
+    list-style-type: square;
+    background: whitesmoke;
+    padding: 30px;
+    text-align: center;
+    list-style: none;
+    margin-left: 0%;
+    margin-right: 30%;
+    width: 80%;
+
+}
+
+div ul li {
+    background: orange;
+    margin: 5px;
+    text-align: center;
+    list-style: none;
+}
+
+#form1 {
+    margin-left: 16.8%;
+    margin-right: 0%;
+    width: 66.35%;
+}

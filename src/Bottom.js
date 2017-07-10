@@ -2,8 +2,18 @@ import React from 'react'
 
 import './Bottom.css'
 
+
+
+
+
 const Bottom = () => {
-    return <p>BIG 'Ol Bottom</p>
+    return (
+    <div className="someButtons">
+        <button>
+  This Does Something!
+    </button>
+</div>
+    )
 }
 
 export default Bottom

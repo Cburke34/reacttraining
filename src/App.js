@@ -3,6 +3,7 @@ import React, { Component } from 'react'
 
 import './App.css'
 import Main from './Main'
+import Footer from './Footer'
 
 
 class App extends Component {
@@ -10,6 +11,7 @@ class App extends Component {
     return (
       <div className="App">
         <Main />
+        <Footer />
       </div>
     );
   }

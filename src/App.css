@@ -1,0 +1,6 @@
+.App{
+  height: 1000px;
+  background: url('https://upload.wikimedia.org/wikipedia/commons/f/f9/Hirschhorn_6-fold-rotational_symmetry_pentagonal_tiling.svg') no-repeat center center fixed;
+  background-size: cover;
+  animation: App-url-spin infinite 20s linear;
+}
