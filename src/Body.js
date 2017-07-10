@@ -5,8 +5,7 @@ import ImputName from './ImputName'
 import ImputBio from './ImputBio'
 
 
-class Body extends React.Component {
-render() {
+const Body = (props) => {
     return (
       <div >
         <ImputName />
@@ -14,7 +13,6 @@ render() {
       </div>
     );
   }
-}
 
 
 export default Body

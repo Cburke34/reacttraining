@@ -5,7 +5,7 @@ import Title from './Title'
 import Body from './Body'
 import Bottom from './Bottom'
 
-const Main = () => {
+const Main = (props) => {
     return (
     <div className="Main">
     <Title />
